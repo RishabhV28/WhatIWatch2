@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "j": "^1.0.0",
+    "jquery": "^3.7.1",
+    "less": "^4.2.2",
+    "query": "^0.2.0",
+    "react-loader-spinner": "^6.1.6"
+  }
+}
