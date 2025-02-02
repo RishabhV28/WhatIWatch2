@@ -1,0 +1,16 @@
+node_modules
+# Ignore dependencies  
+node_modules  
+.vite  
+
+# Ignore build files  
+dist  
+build  
+
+# Ignore environment variables  
+.env  
+.env.local  
+
+# Ignore system files  
+.DS_Store  
+Thumbs.db
