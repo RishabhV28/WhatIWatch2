@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 # Ignore dependencies  
 node_modules  
 .vite  
